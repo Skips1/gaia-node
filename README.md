@@ -18,3 +18,5 @@ gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/
 # kurulumlar tamamlanana kadar bekleyin.
 ```
 ```console
+# start edelim.
+gaianet start
