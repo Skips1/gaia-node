@@ -90,3 +90,14 @@ python3 gaiabot.py
 
 <details>
   <summary> <h1>Hiç Kurmadıysan Burdan Başla</summary> </h1>
+
+  
+## Kurulum
+
+> Daha önce Gaia katılıp EXP'leri toplamıştık.
+
+> Bu EXP'leri node'un çalışması için kredi olarak kullanacağız.
+
+> [Buradan](https://gaianet.ai/reward?invite_code=RiFcz1) EXP'leri toplayabilirsiniz.
+
+#
