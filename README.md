@@ -101,3 +101,10 @@ python3 gaiabot.py
 > [Buradan](https://gaianet.ai/reward?invite_code=RiFcz1) EXP'leri toplayabilirsiniz.
 
 #
+## Donanım
+
+> CPU : 4 vCPU
+
+> RAM : 8GB
+
+#
