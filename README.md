@@ -108,3 +108,14 @@ python3 gaiabot.py
 > RAM : 8GB
 
 #
+## komutlar.
+
+```console
+# sırasıyla
+sudo apt update && sudo apt upgrade -y
+sudo apt install -y build-essential libssl-dev libffi-dev python3-dev python3-pip pip
+
+curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh' | bash
+source /root/.bashrc
+
+gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen2-0.5b-instruct/config.json
