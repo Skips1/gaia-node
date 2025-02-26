@@ -156,3 +156,17 @@ gaianet start
 > ChatGPT yerine [bu](https://www.gaianet.ai/chat?domain=ruesandora.gaia.domains&type=domain) botu kullanmak node puanınızı arttıracak.
 
 > Kullanmadığımız zamanlarda da çalışması için oto text bot kuracağız.
+#
+
+> [Buradan](https://www.gaianet.ai/reward-summary) base ağına geçerek reeddem yapın EXP'leri.
+
+<img width="1443" alt="Ekran Resmi 2025-02-07 21 50 23" src="https://github.com/user-attachments/assets/13309650-98fa-45db-8c3e-721c07092581" />
+
+> Creditleri Consumed'e çevireceğiz.
+
+> [Buradan](https://www.gaianet.ai/setting/gaia-api-keys) bir API key oluşturup saklayın keyi.
+
+```console
+curl -L -o gaiabot.py https://github.com/enzifiri/gaia-node/raw/main/gaiabot.py
+screen -S gaia
+python3 gaiabot.py
