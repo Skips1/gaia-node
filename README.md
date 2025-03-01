@@ -170,3 +170,20 @@ gaianet start
 curl -L -o gaiabot.py https://github.com/enzifiri/gaia-node/raw/main/gaiabot.py
 screen -S gaia
 python3 gaiabot.py
+# akabinde CTRL A D ile çıkış yapabilirsiniz burdan.
+```
+
+> Refresh attıkca consumed artacak.
+
+<img width="661" alt="Ekran Resmi 2025-02-07 21 52 10" src="https://github.com/user-attachments/assets/35c01933-f3ab-448e-b1ec-5b2dfea724a8" />
+
+> Bu şekilde bir hesabınıza eklediğiniz kadar node eklersiniz.
+
+> tokenininizin biteceğini unutmayın , expler önemli.
+
+
+> Akabinde node puan artacak (24 saat sonra)
+
+<img width="544" alt="Ekran Resmi 2025-02-07 21 55 26" src="https://github.com/user-attachments/assets/6157d573-2793-482c-9011-f125c7680aab" />
+
+</details>
