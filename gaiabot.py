@@ -29,3 +29,5 @@ QUESTIONS = [
 "How do I get started with designing my website on a no-code platform?" ,
 "How do I add pages, navigation, and other elements to my website using a no-code platform?" ,
 "How do I customize the look and feel of my website using a no-code platform?" ,
+"What options do I have for integrating third-party tools and services into my website using no-code?" ,
+"How do I make sure my website is mobile-friendly using a no-code platform?" ,
