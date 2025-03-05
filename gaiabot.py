@@ -25,3 +25,7 @@ QUESTIONS = [
 "How to design and build websites using no-code." ,
 "What are the benefits of using no-code platforms for website building?" ,
 "What are the most popular no-code website builders currently available?" ,
+"How do I choose the right no-code website builder for my project?" ,
+"How do I get started with designing my website on a no-code platform?" ,
+"How do I add pages, navigation, and other elements to my website using a no-code platform?" ,
+"How do I customize the look and feel of my website using a no-code platform?" ,
