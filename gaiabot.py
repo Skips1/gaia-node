@@ -33,3 +33,4 @@ QUESTIONS = [
 "How do I make sure my website is mobile-friendly using a no-code platform?" ,
 "What steps do I need to take to launch my website using a no-code platform?" ,
 "Can I use a no-code platform to build an e-commerce website?" ,
+"What are the limitations of using a no-code platform to build a website?" ,
