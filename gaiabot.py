@@ -35,3 +35,4 @@ QUESTIONS = [
 "Can I use a no-code platform to build an e-commerce website?" ,
 "What are the limitations of using a no-code platform to build a website?" ,
 "How do I handle SEO for my website when using a no-code platform?" ,
+"What resources are available to help me learn more about using no-code for website building?" ,
