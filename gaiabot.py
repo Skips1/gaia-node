@@ -37,3 +37,4 @@ QUESTIONS = [
 "How do I handle SEO for my website when using a no-code platform?" ,
 "What resources are available to help me learn more about using no-code for website building?" ,
 "Can I hire a professional to help me build my website using a no-code platform?" ,
+"How much does it cost to build a website using a no-code platform?" ,
