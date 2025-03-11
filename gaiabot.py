@@ -42,3 +42,4 @@ QUESTIONS = [
 "How can I get support if I run into issues while building my website using a no-code platform?" ,
 "How do I maintain and update my website after it has been built using a no-code platform?" ,
 "What are some examples of websites built using no-code platforms?" ,
+"What kind of websites can be built using a no-code platform?" ,
