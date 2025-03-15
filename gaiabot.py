@@ -46,3 +46,4 @@ QUESTIONS = [
 "How do I add custom code to my website if needed when using a no-code platform?" ,
 "How can I add forms and other interactive elements to my website using a no-code platform?" ,
 "What options do I have for hosting my website when using a no-code platform?" ,
+"How can I use no-code to create a landing page for my website?" ,
