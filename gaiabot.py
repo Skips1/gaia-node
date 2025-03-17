@@ -48,3 +48,4 @@ QUESTIONS = [
 "What options do I have for hosting my website when using a no-code platform?" ,
 "How can I use no-code to create a landing page for my website?" ,
 "How do I make sure my website is accessible and inclusive using a no-code platform?" ,
+"How do I add and manage images and other media on my website using a no-code platform?" ,
