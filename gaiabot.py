@@ -50,3 +50,4 @@ QUESTIONS = [
 "How do I make sure my website is accessible and inclusive using a no-code platform?" ,
 "How do I add and manage images and other media on my website using a no-code platform?" ,
 "How can I add blog functionality to my website using a no-code platform?" ,
+"Can I use a no-code platform to build a website for a business or organization?" ,
