@@ -55,3 +55,4 @@ QUESTIONS = [
 "How can I track website analytics using a no-code platform?" ,
 "Can I use a no-code platform to build a portfolio website for my creative work?" ,
 "How can I add social media integration to my website using a no-code platform?" ,
+"Can I use a no-code platform to build a website for a non-profit organization?" ,
