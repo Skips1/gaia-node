@@ -61,3 +61,4 @@ QUESTIONS = [
 "What is the process for publishing and launching a website using a no-code platform?" ,
 "How can I integrate payment systems into my e-commerce website using a no-code platform?" ,
 "Can I use a no-code platform to build a website for a local business or small enterprise?" ,
+"Can I use a no-code platform to build a website for a local business or small enterprsise?" ,
