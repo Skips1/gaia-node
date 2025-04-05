@@ -71,3 +71,4 @@ QUESTIONS = [
 "How can I use a no-code platform to create a website for a community or social network?" ,
 "How can I add a photo gallery to my website using a no-code platform?" ,
 "What options do I have for adding custom fonts and typography to my website using a no-code platform?" ,
+"Can I use a no-code platform to build a website for a personal blog or diary?" ,
