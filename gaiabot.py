@@ -72,3 +72,4 @@ QUESTIONS = [
 "How can I add a photo gallery to my website using a no-code platform?" ,
 "What options do I have for adding custom fonts and typography to my website using a no-code platform?" ,
 "Can I use a no-code platform to build a website for a personal blog or diary?" ,
+"How can I optimize my website for search engines using a no-code platform?" ,
