@@ -74,3 +74,4 @@ QUESTIONS = [
 "Can I use a no-code platform to build a website for a personal blog or diary?" ,
 "How can I optimize my website for search engines using a no-code platform?" ,
 "How to use no-code for building applications." ,
+"What are the benefits of using no-code for building applications?" ,
