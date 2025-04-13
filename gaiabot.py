@@ -75,3 +75,4 @@ QUESTIONS = [
 "How can I optimize my website for search engines using a no-code platform?" ,
 "How to use no-code for building applications." ,
 "What are the benefits of using no-code for building applications?" ,
+"What kind of applications can be built using no-code platforms?" ,
