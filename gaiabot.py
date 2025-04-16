@@ -79,3 +79,4 @@ QUESTIONS = [
 "What are the most popular no-code platforms for building applications?" ,
 "How do I choose the right no-code platform for building my application?" ,
 "How do I get started with designing my application using a no-code platform?" ,
+"How do I add and manage data in my application using a no-code platform?" ,
