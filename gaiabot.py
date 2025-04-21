@@ -84,3 +84,4 @@ QUESTIONS = [
 "How do I customize the user interface of my application using a no-code platform?" ,
 "How do I add and manage users in my application using a no-code platform?" ,
 "How do I handle security and privacy when building an application using a no-code platform?" ,
+"How do I handle user authentication and authorization in my application using a no-code platform?" ,
