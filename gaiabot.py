@@ -86,3 +86,4 @@ QUESTIONS = [
 "How do I handle security and privacy when building an application using a no-code platform?" ,
 "How do I handle user authentication and authorization in my application using a no-code platform?" ,
 "How do I test and debug my application when using a no-code platform?" ,
+"How do I handle data migration when building an application using a no-code platform?" ,
