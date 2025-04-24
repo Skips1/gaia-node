@@ -88,3 +88,4 @@ QUESTIONS = [
 "How do I test and debug my application when using a no-code platform?" ,
 "How do I handle data migration when building an application using a no-code platform?" ,
 "How do I handle data migration when building an application using a no-code platform?" ,
+"Can I add custom code to my application when using a no-code platform?" ,
