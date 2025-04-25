@@ -89,3 +89,4 @@ QUESTIONS = [
 "How do I handle data migration when building an application using a no-code platform?" ,
 "How do I handle data migration when building an application using a no-code platform?" ,
 "Can I add custom code to my application when using a no-code platform?" ,
+"How do I add user-generated content to my application using a no-code platform?" ,
