@@ -91,3 +91,4 @@ QUESTIONS = [
 "Can I add custom code to my application when using a no-code platform?" ,
 "How do I add user-generated content to my application using a no-code platform?" ,
 "How do I handle scalability and performance when building an application using a no-code platform?" ,
+"Can I use a no-code platform to build a mobile application?" ,
