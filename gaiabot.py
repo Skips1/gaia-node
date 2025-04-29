@@ -96,3 +96,4 @@ QUESTIONS = [
 "How do I handle email and SMS notifications in my application using a no-code platform?" ,
 "How do I handle push notifications in my application using a no-code platform?" ,
 "How do I handle user analytics and tracking in my application using a no-code platform?" ,
+"How do I handle error handling and exception handling in my application using a no-code platform?" ,
