@@ -98,3 +98,4 @@ QUESTIONS = [
 "How do I handle user analytics and tracking in my application using a no-code platform?" ,
 "How do I handle error handling and exception handling in my application using a no-code platform?" ,
 "How do I handle user feedback and bug reporting in my application using a no-code platform?" ,
+"How do I handle integration with external APIs in my application using a no-code platform?" ,
