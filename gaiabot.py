@@ -101,3 +101,4 @@ QUESTIONS = [
 "How do I handle integration with external APIs in my application using a no-code platform?" ,
 "What resources are available to help me learn more about using no-code for application building?" ,
 "How do I handle database management in my application when using a no-code platform?" ,
+"Can I use a no-code platform to build a real-time application?" ,
