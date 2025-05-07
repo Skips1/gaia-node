@@ -103,3 +103,4 @@ QUESTIONS = [
 "How do I handle database management in my application when using a no-code platform?" ,
 "Can I use a no-code platform to build a real-time application?" ,
 "How do I handle user roles and permissions in my application using a no-code platform?" ,
+"How do I handle user privacy and data protection in my application using a no-code platform?" ,
