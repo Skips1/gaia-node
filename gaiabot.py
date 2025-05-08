@@ -105,3 +105,4 @@ QUESTIONS = [
 "How do I handle user roles and permissions in my application using a no-code platform?" ,
 "How do I handle user privacy and data protection in my application using a no-code platform?" ,
 "How do I handle version control and collaboration when building an application using a no-code platform?" ,
+"How do I handle backups and disaster recovery in my application using a no-code platform?" ,
