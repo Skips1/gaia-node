@@ -109,3 +109,4 @@ QUESTIONS = [
 "How do I handle updates and maintenance for my application using a no-code platform?" ,
 "Can I use a no-code platform to build an enterprise-level application?" ,
 "How do I handle integration with other applications and systems in my application using a no-code platform?" ,
+"How do I handle integration with social media platforms in my application using a no-code platform?" ,
