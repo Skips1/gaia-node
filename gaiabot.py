@@ -112,3 +112,4 @@ QUESTIONS = [
 "How do I handle integration with social media platforms in my application using a no-code platform?" ,
 "How do I handle performance optimization in my application using a no-code platform?" ,
 "How do I handle user engagement" ,
+"How do I handle user segmentation and targeting in my application using a no-code platform?" ,
