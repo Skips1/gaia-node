@@ -116,3 +116,4 @@ QUESTIONS = [
 "How do I handle user personalization in my application using a no-code platform?" ,
 "How do I handle user onboarding in my application using a no-code platform?" ,
 "How do I handle user retention in my application using a no-code platform?" ,
+"How do I handle user feedback and support in my application using a no-code platform?" ,
