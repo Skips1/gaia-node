@@ -118,3 +118,4 @@ QUESTIONS = [
 "How do I handle user retention in my application using a no-code platform?" ,
 "How do I handle user feedback and support in my application using a no-code platform?" ,
 "How do I handle integration with customer relationship management (CRM) systems in my application using a no-code platform?" ,
+"How do I handle integration with marketing automation systems in my application using a no-code platform?" ,
