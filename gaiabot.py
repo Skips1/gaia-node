@@ -120,3 +120,4 @@ QUESTIONS = [
 "How do I handle integration with customer relationship management (CRM) systems in my application using a no-code platform?" ,
 "How do I handle integration with marketing automation systems in my application using a no-code platform?" ,
 "How do I handle internationalization and localization in my application using a no-code platform?" ,
+"How do I handle data privacy and compliance when building an application using a no-code platform?" ,
