@@ -125,3 +125,4 @@ QUESTIONS = [
 "How do I handle integration with cloud storage and file sharing systems in my application using a no-code platform?" ,
 "How do I handle integration with project management and task management systems in my application using a no-code platform?" ,
 "How to scale your no-code business." ,
+"What are the key factors to consider when scaling a no-code business?" ,
