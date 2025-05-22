@@ -126,3 +126,4 @@ QUESTIONS = [
 "How do I handle integration with project management and task management systems in my application using a no-code platform?" ,
 "How to scale your no-code business." ,
 "What are the key factors to consider when scaling a no-code business?" ,
+"What are the most common challenges faced when scaling a no-code business?" ,
