@@ -129,3 +129,4 @@ QUESTIONS = [
 "What are the most common challenges faced when scaling a no-code business?" ,
 "What are the best practices for scaling a no-code business?" ,
 "How do I measure the success of my no-code business?" ,
+"How do I determine when it is the right time to scale my no-code business?" ,
