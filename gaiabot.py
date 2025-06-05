@@ -137,3 +137,4 @@ QUESTIONS = [
 "What are the most effective marketing strategies for scaling a no-code business?" ,
 "How do I build a sustainable revenue model for my no-code business?" ,
 "How do I scale my customer support operations when scaling my no-code business?" ,
+"How do I build a culture of innovation and creativity in my no-code business?" ,
