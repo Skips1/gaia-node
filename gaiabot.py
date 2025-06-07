@@ -141,3 +141,4 @@ QUESTIONS = [
 "How do I handle growth and expansion in my no-code business?" ,
 "How do I handle competition in my no-code business?" ,
 "What are the best tools and resources for scaling a no-code business?" ,
+"How do I handle financial management and budgeting when scaling my no-code business?" ,
