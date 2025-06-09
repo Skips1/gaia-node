@@ -143,3 +143,4 @@ QUESTIONS = [
 "What are the best tools and resources for scaling a no-code business?" ,
 "How do I handle financial management and budgeting when scaling my no-code business?" ,
 "How do I handle legal and regulatory issues when scaling my no-code business?" ,
+"How do I handle data management and data privacy when scaling my no-code business?" ,
