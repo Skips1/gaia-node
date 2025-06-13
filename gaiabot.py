@@ -145,3 +145,4 @@ QUESTIONS = [
 "How do I handle legal and regulatory issues when scaling my no-code business?" ,
 "How do I handle data management and data privacy when scaling my no-code business?" ,
 "How do I handle security and privacy when scaling my no-code business?" ,
+"How do I handle infrastructure and technology management when scaling my no-code business?" ,
