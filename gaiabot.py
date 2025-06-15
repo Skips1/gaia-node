@@ -149,3 +149,4 @@ QUESTIONS = [
 "How do I handle product development and innovation when scaling my no-code business?" ,
 "How do I handle user engagement and retention when scaling my no-code business?" ,
 "How do I handle user feedback and support when scaling my no-code business?" ,
+"How do I handle user acquisition and marketing when scaling my no-code business?" ,
